@@ -1,0 +1,11 @@
+2.
+	Como vender mais produtos em conjunto em um mercado?
+			Muitas vezes as pessoas vao querer comprar um produto especifico em uma loja virtual
+		mas e se tivesse informacoes sobre o que uma pessoa procurando um produto especifico
+		compra também em situacoes separadas, pode-se criar um perfil para esse comprador para
+		aplicar recomendacoes que dé mais chance dele comprar em conjunto na sua loja.
+		
+		3.
+			Seria de bom grado usar a analise preditiva nessa situacao para poder recomendar o perfil
+		de acordo com seu historico. no caso pode se implementar um historico de transacoes de um perfil
+		de acordo com todo o historico de um comprador.
