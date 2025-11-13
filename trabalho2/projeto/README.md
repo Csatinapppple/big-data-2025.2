@@ -1,0 +1,1 @@
+Para rodar tudo basta instalar os requirements
